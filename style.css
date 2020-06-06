@@ -1,0 +1,30 @@
+.dd{
+    background-color: rgb(216, 226, 126);
+    padding: 15px 90px;
+    
+}
+#icon{
+    display: inline-block;
+    position: absolute;
+    padding: 15px 250px;
+}
+.logo{
+    display: flex;
+    margin: 20px 400px;
+}
+.m1{
+    display: flex;
+}
+.main{
+    margin: 50px;
+}
+
+
+
+
+
+
+
+.footer{
+    background-color: rgb(216, 226, 126);
+}
